@@ -1,0 +1,27 @@
+{
+  "name": "avstreammanager",
+  "version": "1.0.0",
+  "description": "audio video stream manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehulchandroliya/AVStreamManager.git"
+  },
+  "keywords": [
+    "ffmpeg",
+    "command",
+    "and",
+    "system",
+    "command",
+    "management"
+  ],
+  "author": "Mehul Chandroliya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehulchandroliya/AVStreamManager/issues"
+  },
+  "homepage": "https://github.com/mehulchandroliya/AVStreamManager#readme"
+}
