@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/mehulchandroliya/AVStreamManager/issues"
   },
-  "homepage": "https://github.com/mehulchandroliya/AVStreamManager#readme"
+  "homepage": "https://github.com/mehulchandroliya/AVStreamManager#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
